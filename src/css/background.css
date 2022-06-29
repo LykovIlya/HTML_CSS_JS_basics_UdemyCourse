@@ -9,3 +9,13 @@ hr {
 li {
 	text-align: left;
 }
+p {
+	text-align: justify;
+	text-indent: 20pt;
+	margin-top: 0.2pt;
+	margin-bottom: 0.2pt;
+}
+div.fig {
+	text-align: center;
+	margin: 0 auto;
+}
