@@ -19,3 +19,7 @@ div.fig {
 	text-align: center;
 	margin: 0 auto;
 }
+div.imagesize {
+	width: 100%;
+	height: auto;
+}
