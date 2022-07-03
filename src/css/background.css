@@ -1,3 +1,6 @@
+* {
+	box-sizing: border-box;
+}
 body {
 	background-color: rgba(255, 255, 224, 0.8);
 	font-size: 12pt;
@@ -15,13 +18,11 @@ p {
 	margin-top: 0.2pt;
 	margin-bottom: 0.2pt;
 }
-div.fig {
-	text-align: center;
-	margin: 0 auto;
-}
-div.imagesize {
-	width: 100%;
+.imagesize {
+	width: 300px;
 	height: auto;
+	margin-inline: auto;
+	margin: 10px;
 }
 
 #begin {
@@ -51,4 +52,9 @@ div.imagesize {
 	border-color: black; */
 	border: 3px solid black;
 	margin: 20px;
+	margin-inline: auto;
 }
+
+/* Блочные */
+/* Строчные */
+/* Строчно-Блочные */
